@@ -2,7 +2,7 @@ CS210 Course Project - Ahmet Coşkun
 #
 
 Link to the presentation video:
-https://drive.google.com/file/d/1urMwyb98JbV22QRyKt6H4XP04gJDLJSz/view?usp=share_link
+
 
 This is a program that generates the most frequently used Turkish words by a single person in a WhatsApp chat using the .txt file of a chat exported from WhatsApp.
 
